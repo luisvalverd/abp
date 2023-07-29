@@ -9,18 +9,13 @@ export default function Navigation() {
       <div>
         <ul className="list-none flex flex-row">
           <li>
-            <Link href="#" className="pl-4">
+            <Link href="/" className="pl-4">
               Inicio
             </Link>
           </li>
           <li>
-            <Link href="#" className="pl-4">
+            <Link href="/leeme" className="pl-4">
               Leeme
-            </Link>
-          </li>
-          <li>
-            <Link href="#" className="pl-4">
-              Gracias
             </Link>
           </li>
         </ul>

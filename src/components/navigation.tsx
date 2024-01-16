@@ -4,7 +4,7 @@ export default function Navigation() {
   return (
     <div className="w-full h-24 flex items-center justify-between bg-purple-800 px-14 text-white">
       <div>
-        <h1 className="text-2xl font-bold">Te Amo Gaby</h1>
+        <h1 className="text-3xl font-bold">LADK</h1>
       </div>
       <div>
         <ul className="list-none flex flex-row">
@@ -14,8 +14,8 @@ export default function Navigation() {
             </Link>
           </li>
           <li>
-            <Link href="/leeme" className="pl-4">
-              Leeme
+            <Link href="https://padlet.com/alemi5627/abp-kd6ahssnk7refvix" className="pl-4">
+              Pallet
             </Link>
           </li>
         </ul>
